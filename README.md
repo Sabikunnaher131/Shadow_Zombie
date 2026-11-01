@@ -1,2 +1,2 @@
 # Shadow_Zombie
-Shadow Zombie is a browser-based survival game developed using HTML, CSS, and JavaScript. Players must survive in darkness using a flashlight to repel zombies, collect batteries, manage health, and achieve high scores. The game features player movement, zombie AI, collision detection, a survival timer, and restart functionality.
+Shadow Zombie is an exciting browser-based survival game where you fight endless zombies using a pistol, laser sight, and flashlight. Collect ammo and batteries, dodge enemies, and use smart strategies to survive as long as possible and achieve the highest score!
